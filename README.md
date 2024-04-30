@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maria valentina serna</h1>
-<h3 align="center">Disciplined and passionate about the world of programming</h3>C:\Users\Valentina\Downloads\IMG_6984.jpeg
+<h3 align="center">Disciplined and passionate about the world of programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serna0120&label=Profile%20views&color=0e75b6&style=flat" alt="serna0120" /> </p>
 
